@@ -1,0 +1,16 @@
+# AT-CRAG: Adaptive Token-Budget Corrective RAG
+# CPU-only dependencies
+
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+datasets>=2.14.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+numpy>=1.24.0
+pandas>=1.5.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+nltk>=3.8.0
